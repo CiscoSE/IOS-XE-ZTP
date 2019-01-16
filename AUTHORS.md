@@ -3,6 +3,8 @@ This project was written and is maintained by the following individuals:
 ## Author(s)
 
 * Bob Clay <boclay@cisco.com>
+* Jason Whiteaker <jawhitea@cisco.com>
+* Ameron Sheikh <imsheikh@cisco.com>
 
 
 ## Maintainer(s)
