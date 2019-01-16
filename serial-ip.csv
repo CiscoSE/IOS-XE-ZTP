@@ -1,0 +1,4 @@
+serial,ip,netmask,gw,config_url,hostname
+TEST,1.1.1.1,255.255.255.0,1.1.1.0,http://test/config_file
+FCW2125G080,192.168.1.93,255.255.255.0,192.168.1.101,,ztp-demo-c9300
+FDO2212E1AX,192.168.1.38,255.255.255.0,192.168.1.101,,ztp-demo-c3650
